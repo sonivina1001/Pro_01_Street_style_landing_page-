@@ -21,7 +21,7 @@
 -Learned about z-index, set margin and padding of buttons.
 
 ### Screenshot for quick view
-![image dlana h waha pr](./assets/Project01.png)
+![outpt image](./assets/Project01.png)
 
 
 ## Device support 
