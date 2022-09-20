@@ -42,9 +42,9 @@ HTML, CSS...
 
 
 
-### Authors
+> Authors
 
-##### Vinayak_soni
+## Vinayak Soni
 
 
 
